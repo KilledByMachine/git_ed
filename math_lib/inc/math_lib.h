@@ -1,0 +1,2 @@
+
+void some_function_on_dev_2();
